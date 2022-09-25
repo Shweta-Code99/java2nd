@@ -14,6 +14,7 @@ public class Reverse
 			reversed= reversed * 10 + digit;
 		}
 		return reversed;
+		return reversed;
 	}
 	
 	public static void main(String args[])
